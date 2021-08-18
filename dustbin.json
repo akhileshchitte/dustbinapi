@@ -1,0 +1,46 @@
+[
+
+  {
+    "name" : "Churchgate",
+    "id" : 12020100,
+    "currentStatus" : 20,
+    "LastUpdated" : 35
+  },
+  {
+    "name" : "Marine",
+    "id" : 12020101,
+    "currentStatus" : 80,
+    "LastUpdated" : 15
+  },
+  {
+    "name" : "Grant Road",
+    "id" : 12020102,
+    "currentStatus" : 50,
+    "LastUpdated" : 49
+  },
+  {
+    "name" : "Mumbai Central",
+    "id" : 12020103,
+    "currentStatus" : 98,
+    "LastUpdated" : 1
+  },
+  {
+    "name" : "Prabhadevi",
+    "id" : 12020104,
+    "currentStatus" : 68,
+    "LastUpdated" : 23
+  },
+  {
+    "name" : "Parel",
+    "id" : 12020105,
+    "currentStatus" : 43,
+    "LastUpdated" : 10
+  },
+  {
+    "name" : "Dadar",
+    "id" : 12020106,
+    "currentStatus" : 77,
+    "LastUpdated" : 20
+  }
+
+]
